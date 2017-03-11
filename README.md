@@ -6,5 +6,5 @@ finding largest length by comparing the length of sides using norm() function.
   To run the file 
     cmake .
      make 
-    ./Maker_Detect <video path>
+    ./Maker_Detect {video path}
                            
