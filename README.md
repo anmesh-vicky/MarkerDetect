@@ -1,7 +1,7 @@
 # Marker_detect
  Colour detection using HSV values to produce a desire binary  output.  
  Eroding and dilating the binary image to removing noise in the binary image.  
- Finding rotated rectangle by contor detection .  
+ Finding rotated rectangle by contour detection .  
  finding largest length by comparing the length of sides using norm() function.   
  To run the file  
    cmake .   
